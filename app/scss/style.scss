@@ -916,5 +916,10 @@ button.icon-unsorted {
             }
         }
     }
+    .page {
+        &.list {
+            display: none;
+        }
+    }
 }
 // end product-page
